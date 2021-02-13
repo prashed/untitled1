@@ -2,6 +2,14 @@ body {
     background: #efefef;
     font-family: Arial, serif;
 }
+#wrapper {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    text-align: left;
+}
 h1 {
     font-size: 20px;
 
